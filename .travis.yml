@@ -1,6 +1,6 @@
 arch: 
   - ppc64le
-  - amd64
+  
 language: python
 sudo: false
 python:
